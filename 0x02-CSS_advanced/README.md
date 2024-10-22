@@ -1127,5 +1127,4 @@ Repo:
 
 GitHub repository: alx-frontend
 Directory: 0x02-CSS_advanced
-File: styles/32-style.css
-
+File: styles/32-style.cs
